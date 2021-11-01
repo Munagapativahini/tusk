@@ -3,3 +3,4 @@ welcome to c programming
 datatypes
 array
 string
+pointers
